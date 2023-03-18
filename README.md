@@ -11,7 +11,7 @@
 методичка:
 https://docs.google.com/document/d/12sC884LuLGST3-tZYQBDPvn6AH8AGJCK/edit?usp=share_link&ouid=107126378526912727172&rtpof=true&sd=true
 
-Особенности/ошибки, исправленные в методичке по ДЗ 1.
+Особенности/ошибки, исправленные в методичке по ДЗ №1.  
 В файле centos.json увеличиваем тайм-аут подключения по ssh до 60 мин (для старого ноута):  
 "ssh_timeout": "60m"
 
