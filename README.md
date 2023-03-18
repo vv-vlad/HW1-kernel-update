@@ -17,7 +17,7 @@ https://docs.google.com/document/d/12sC884LuLGST3-tZYQBDPvn6AH8AGJCK/edit?usp=sh
 
 В файл ks.cfg добавляем перед перезагрузкой строки, чтобы установка не останавливалась на ожидание выбора компонентов, выбирается минимальное окружение:
 %packages --ignoremissing
-# dnf group info minimal-environment
+
 @^minimal-environment
 %end
 reboot
