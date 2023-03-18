@@ -24,7 +24,7 @@ reboot
 В первом скрипте stage-1-kernel-update.sh команду перезагрузки меняем на выключение виртуалки, т.к. иначе процесс не продолжается (до второго скрипта), почему так - вопрос остался открытым:  
 shutdown -h +3  
 
-Рекомендуемые источники  
+## Рекомендуемые источники  
 Репозиторий manual_kernel_update - https://github.com/dmitry-lyutenko/manual_kernel_update/blob/master/manual/manual.md  
 Статья о GitHub - https://ru.wikipedia.org/wiki/GitHub   
 Elrepo HomePage - http://elrepo.org/tiki/HomePage   
